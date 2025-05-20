@@ -65,4 +65,4 @@ Ranking logic for identifying bottom 10 performing countries
 - Shared access with Sales and Strategy teams for real-time tracking.
 
 # Dashboard Overview
-![Image](https://github.com/user-attachments/assets/0176f4bf-a1c7-45dd-9818-0566deb2c7fc)
+![Image](https://github.com/user-attachments/assets/8ab97940-a98a-4ea3-ad42-55deeec09fd2)
